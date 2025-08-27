@@ -74,6 +74,7 @@ export const generateCommonApi = (fetch: HttpClient) => ({
 					translations: {
 						zh_CN: "简体中文",
 						en_US: "Simplified Chinese",
+						pt_BR: "Chinês Simplificado",
 					},
 				},
 				{
@@ -82,6 +83,16 @@ export const generateCommonApi = (fetch: HttpClient) => ({
 					translations: {
 						zh_CN: "英文",
 						en_US: "English",
+						pt_BR: "Inglês",
+					},
+				},
+				{
+					name: "Português (Brasil)",
+					locale: "pt_BR",
+					translations: {
+						zh_CN: "葡萄牙语（巴西）",
+						en_US: "Portuguese (Brazil)",
+						pt_BR: "Português (Brasil)",
 					},
 				},
 			],

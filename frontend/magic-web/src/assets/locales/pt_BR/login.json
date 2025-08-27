@@ -1,0 +1,75 @@
+{
+	"account": {
+		"create": "Adicionar conta"
+	},
+	"afterSecondsCan": "Disponível em {{seconds}} segundos",
+	"and": "e",
+	"authorizeCode": {
+		"label": "Código de identificação de implantação privada",
+		"placeholder": "Digite o código de identificação de implantação privada"
+	},
+	"autoRegisterTip": "Usuários não registrados terão suas contas criadas automaticamente após a verificação.",
+	"button": {
+		"cancel": "Cancelar",
+		"confirm": "Confirmar"
+	},
+	"copyright": "Copyright © 2023 Guangdong Lighthouse Engine Technology Co., Ltd. Todos os direitos reservados.",
+	"device": {
+		"app": "cliente",
+		"dingTalk": "DingTalk",
+		"unknown": "desconhecido"
+	},
+	"dingTalkLogin": "Login DingTalk",
+	"dingTalkTip": "Por favor, use o DingTalk para escanear o código QR para login.",
+	"enterVerificationCode": "Digite o código de verificação do celular",
+	"findPassword": "Recuperar senha",
+	"hi": "👋 Olá, meu amigo",
+	"invalidCode": "Código de verificação inválido",
+	"larkLogin": "Login Lark",
+	"larkTip": "Por favor, use o Lark para escanear o código QR para login.",
+	"login": "Entrar",
+	"loginPrivateDeployment": "Serviço Privado",
+	"loginPublicDeployment": "Serviço Público",
+	"magicOrganizationSyncStep": {
+		"pleaseBindExistingAccount": "Por favor, vincule uma conta existente"
+	},
+	"nextStep": "Próximo",
+	"otherLoginType": "OU",
+	"password": {
+		"label": "Senha",
+		"placeholder": "Por favor, digite a senha"
+	},
+	"passwordLogin": "Login por senha",
+	"phone": {
+		"invalid": "Número de Telefone Inválido",
+		"label": "Número do Telefone",
+		"placeholder": "Por favor, digite seu número de telefone."
+	},
+	"pleaseSendTo": "Por favor, digite e envie para",
+	"pleaseSendToEnd": "Código de verificação de ${count} dígitos, válido por ${minutes} minutos.",
+	"prevStep": "Voltar ao passo anterior",
+	"privacyPolicy": "Política de Privacidade",
+	"privateConfig": "Configuração Privada",
+	"reSendVerificationCode": "Reenviar código de verificação",
+	"readAndAgree": "Ao se cadastrar, você concorda com nossos",
+	"refresh": "Atualizar",
+	"sendVerificationCode": "Enviar código de verificação",
+	"serviceAgreement": "Acordo do Usuário",
+	"verificationCodeLogin": "Login por verificação SMS",
+	"wechatOfficialAccount": {
+		"agreePolicy": "Por favor, concorde com o acordo do usuário",
+		"autoLogin": "Follow the WeChat official account to log in automatically.",
+		"backToPrevious": "Return to the previous step",
+		"bindPhone": "Bind Phone Number",
+		"bindPhoneDescription": "Please bind your mobile number. Unregistered mobile numbers will be automatically registered and bound.",
+		"bindPhoneTitle": "The current WeChat is not yet linked to an account.",
+		"cancelRegister": "I will reconsider and cancel the registration.",
+		"phoneAlreadyBound": "The phone number has already been bound",
+		"qrCodeAlt": "WeChat QR code login",
+		"qrCodeExpired": "QR code not scanned or expired",
+		"title": "WeChat Secure Login"
+	},
+	"wechatOfficialAccountLogin": "WeChat",
+	"welcome": "Welcome to Magic AI",
+	"welcomeLogin": "Enterprise WeChat login"
+}

@@ -11,7 +11,12 @@ export const normalizeLocale = (locale?: string) => {
 		case "zh-Hans":
 			return SupportLocales.zhCN
 		case "en":
+		case "en-US":
 			return SupportLocales.enUS
+		case "pt":
+		case "pt-BR":
+		case "pt-br":
+			return SupportLocales.ptBR
 		default:
 			return locale
 	}

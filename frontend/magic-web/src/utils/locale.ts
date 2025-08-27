@@ -12,6 +12,10 @@ export const normalizeLocale = (locale?: string): string => {
 		case "en":
 		case "en-US":
 			return SupportLocales.enUS
+		case "pt":
+		case "pt-BR":
+		case "pt-br":
+			return SupportLocales.ptBR
 		case "auto":
 			return normalizeLocale(window.navigator.language)
 		default:
