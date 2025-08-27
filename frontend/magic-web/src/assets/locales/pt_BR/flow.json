@@ -431,7 +431,7 @@
 		"descLabel": "Description",
 		"documentTitle": "Document",
 		"documentDesc": "All files in the knowledge base can be indexed by AI Assistant/Sub Process/Tool",
-		"search": "Search",
+		"search": "Buscar",
 		"batchOperation": "Batch Operation",
 		"addDocument": "Add Document",
 		"delete": "Delete",
