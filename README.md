@@ -1,6 +1,7 @@
 <div align="left">
   <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-d9d9d9"></a>
   <a href="./README_CN.md"><img alt="简体中文版自述文件" src="https://img.shields.io/badge/简体中文-d9d9d9"></a>
+  <a href="./README_PT_BR.md"><img alt="README em Português (Brasil)" src="https://img.shields.io/badge/Português (Brasil)-d9d9d9"></a>
 </div>
 
 ![Magic Open Source Product Matrix](https://public-cdn.letsmagic.ai/static/img/super-magic-publish-header-en.png?v=20250819)
@@ -12,17 +13,17 @@
     <a href="https://www.letsmagic.ai" target="_blank">
       <img alt="Static Badge" src="https://img.shields.io/badge/Official Website-301AD2">
     </a>
-    <a href="https://github.com/dtyq/magic/releases">
-      <img src="https://poser.pugx.org/dtyq/magic/v/stable" alt="Stable Version">
+    <a href="https://github.com/tassomuniz/magic/releases">
+      <img src="https://poser.pugx.org/tassomuniz/magic/v/stable" alt="Stable Version">
     </a>
-    <a href="https://github.com/dtyq/magic/graphs/commit-activity" target="_blank">
-      <img alt="Commits last month" src="https://img.shields.io/github/commit-activity/m/dtyq/magic?labelColor=%20%2332b583&color=%20%2312b76a">
+    <a href="https://github.com/tassomuniz/magic/graphs/commit-activity" target="_blank">
+      <img alt="Commits last month" src="https://img.shields.io/github/commit-activity/m/tassomuniz/magic?labelColor=%20%2332b583&color=%20%2312b76a">
     </a>
-    <a href="https://github.com/dtyq/magic/" target="_blank">
-      <img alt="Issues closed" src="https://img.shields.io/github/issues-search?query=repo%3Adtyq%2Fmagic%20is%3Aclosed&label=issues%20closed&labelColor=%20%237d89b0&color=%20%235d6b98">
+    <a href="https://github.com/tassomuniz/magic/" target="_blank">
+      <img alt="Issues closed" src="https://img.shields.io/github/issues-search?query=repo%3Atassomuniz%2Fmagic%20is%3Aclosed&label=issues%20closed&labelColor=%20%237d89b0&color=%20%235d6b98">
     </a>
-    <a href="https://github.com/dtyq/magic/discussions/" target="_blank">
-      <img alt="Discussion posts" src="https://img.shields.io/github/discussions/dtyq/magic?labelColor=%20%239b8afb&color=%20%237a5af8">
+    <a href="https://github.com/tassomuniz/magic/discussions/" target="_blank">
+      <img alt="Discussion posts" src="https://img.shields.io/github/discussions/tassomuniz/magic?labelColor=%20%239b8afb&color=%20%237a5af8">
     </a>
     <a href="https://www.letsmagic.ai" target="_blank">
       <img alt="Static Badge" src="https://img.shields.io/badge/Build with Magic 🔮-301AD2">
@@ -38,15 +39,15 @@ Magic is the first **"open-source all-in-one AI productivity platform"**, not a 
 
 ![Product Matrix](https://public-cdn.letsmagic.ai/static/img/super-magic-open-source-projects-en.png?v=20250819)
 
-- **[Super Magic](https://github.com/dtyq/super-magic)** - A **general-purpose AI Agent** designed for complex task scenarios
-- **[Magic IM](https://github.com/dtyq/magic)** - An enterprise-grade instant messaging system that integrates AI Agent conversations with internal enterprise communication
-- **[Magic Flow](https://github.com/dtyq/magic)** - A powerful visual AI workflow orchestration system
+- **[Super Magic](https://github.com/tassomuniz/super-magic)** - A **general-purpose AI Agent** designed for complex task scenarios
+- **[Magic IM](https://github.com/tassomuniz/magic)** - An enterprise-grade instant messaging system that integrates AI Agent conversations with internal enterprise communication
+- **[Magic Flow](https://github.com/tassomuniz/magic)** - A powerful visual AI workflow orchestration system
 - **Teamshare OS** (Coming soon) - An enterprise-grade online collaborative office system
 
 In addition to the above AI products, we have also open-sourced some of the infrastructure we used to build these products:
 
-- **[Agentlang](https://github.com/dtyq/agentlang)** - A language-first AI Agent Framework for building AI agents with natural language (currently available in Python version, TypeScript version coming soon)
-- **[Magic Lens](https://github.com/dtyq/magiclens)** - A powerful and flexible HTML to Markdown conversion tool that uses an extensible rule system to accurately convert complex HTML documents to concise Markdown format
+- **[Agentlang](https://github.com/tassomuniz/agentlang)** - A language-first AI Agent Framework for building AI agents with natural language (currently available in Python version, TypeScript version coming soon)
+- **[Magic Lens](https://github.com/tassomuniz/magiclens)** - A powerful and flexible HTML to Markdown conversion tool that uses an extensible rule system to accurately convert complex HTML documents to concise Markdown format
 - **Magic Use** (Coming soon) - A revolutionary browser operation tool specifically designed for AI Agents
 - **Magic Space** (Coming soon) - A new static content hosting management system specifically designed for AI Agents
 - **Sandbox OS** (Coming soon) - A powerful sandbox system for AI Agent runtime
@@ -137,7 +138,7 @@ We provide more powerful management capabilities and features for teams and ente
 
 ```bash
 # Clone repository
-git clone https://github.com/dtyq/magic.git
+git clone https://github.com/tassomuniz/magic.git
 cd magic
 
 # Start service in foreground
@@ -183,7 +184,7 @@ Documentation: [https://docs.letsmagic.cn/en](https://docs.letsmagic.cn/en)
 
 ## Contribution
 
-For those who want to contribute code, please refer to our [Contribution Guide](https://github.com/dtyq/magic/blob/master/CONTRIBUTING.md).
+For those who want to contribute code, please refer to our [Contribution Guide](https://github.com/tassomuniz/magic/blob/master/CONTRIBUTING.md).
 Also, please consider supporting Magic through social media, events, and conferences. The development of Magic relies on your support.
 
 ## Security Vulnerabilities
@@ -198,4 +199,4 @@ This repository follows the [Magic Open Source License](LICENSE), which is essen
 
 Thanks to all developers who have contributed to Magic!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dtyq/magic&type=Date)](https://star-history.com/#dtyq/magic&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tassomuniz/magic&type=Date)](https://star-history.com/#tassomuniz/magic&Date)
